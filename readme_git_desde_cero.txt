@@ -1,4 +1,5 @@
 11:58 a. m. 07/03/2021
+aqui estoy en la casa repasando las preguntas con Diego
 git init
 
 git add
